@@ -7,4 +7,6 @@ public class Student {
 
     private String school;
     private String classroom;
+
+    private int b;
 }
